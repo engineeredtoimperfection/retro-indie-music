@@ -6,3 +6,8 @@ body {
 .tracks-container {
     margin: 250px;
 }
+
+.track-listing {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
